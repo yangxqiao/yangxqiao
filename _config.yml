@@ -1,1 +1,4 @@
 include: [".well-known"]
+url: yangxqiao.github.io
+baseurl: /yangxqiao
+theme: "just-the-docs"
